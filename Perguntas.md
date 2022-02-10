@@ -2,4 +2,7 @@
 R= Clona o repositório remoto para o Local.
 
 2- Oque é commit ?
-R= empacotamento de um grupo de alterações
+R= empacotamento de um grupo de alterações.
+
+3- Oque é um repositório ?
+R= é a pasta onde serão guardadas a informações do projeto.
