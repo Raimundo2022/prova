@@ -9,3 +9,6 @@ R= é a pasta onde serão guardadas a informações do projeto.
 
 4- O que é merge ?
 R= é a junção das Branchs.
+
+5- O que é Pull ?
+R= Trás as alterações do repositório remoto para o local.
