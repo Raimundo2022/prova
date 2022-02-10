@@ -6,3 +6,6 @@ R= empacotamento de um grupo de alterações.
 
 3- Oque é um repositório ?
 R= é a pasta onde serão guardadas a informações do projeto.
+
+4- O que é merge ?
+R= é a junção das Branchs.
