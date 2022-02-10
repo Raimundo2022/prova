@@ -12,3 +12,6 @@ R= é a junção das Branchs.
 
 5- O que é Pull ?
 R= Trás as alterações do repositório remoto para o local.
+
+6- Oque é Branch ?
+R= Ramificação de repositórios
